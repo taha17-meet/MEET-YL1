@@ -1,0 +1,5 @@
+word = str("enter the word")
+if word[0]==word[2]
+	Print ("true")
+else:
+	print("false")
